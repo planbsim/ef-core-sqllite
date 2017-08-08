@@ -1,0 +1,8 @@
+/Users/simonplanberger/Documents/Projects/ef-core/ef-core-sqllite/application/bin/Debug/netcoreapp1.1/application.deps.json
+/Users/simonplanberger/Documents/Projects/ef-core/ef-core-sqllite/application/bin/Debug/netcoreapp1.1/application.runtimeconfig.json
+/Users/simonplanberger/Documents/Projects/ef-core/ef-core-sqllite/application/bin/Debug/netcoreapp1.1/application.runtimeconfig.dev.json
+/Users/simonplanberger/Documents/Projects/ef-core/ef-core-sqllite/application/bin/Debug/netcoreapp1.1/application.dll
+/Users/simonplanberger/Documents/Projects/ef-core/ef-core-sqllite/application/bin/Debug/netcoreapp1.1/application.pdb
+/Users/simonplanberger/Documents/Projects/ef-core/ef-core-sqllite/application/obj/Debug/netcoreapp1.1/application.AssemblyInfo.cs
+/Users/simonplanberger/Documents/Projects/ef-core/ef-core-sqllite/application/obj/Debug/netcoreapp1.1/application.dll
+/Users/simonplanberger/Documents/Projects/ef-core/ef-core-sqllite/application/obj/Debug/netcoreapp1.1/application.pdb
