@@ -1,3 +1,6 @@
 # dotnet restore files
 application/bin/*
 application/obj/*
+
+# sqllite3 Northwind.db < NorthwindSQLite.sql
+*.db
